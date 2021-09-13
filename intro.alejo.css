@@ -1,0 +1,145 @@
+/*suponiendo que queremos cambiar un color por una fecha importante*/
+h1 {
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.ellos {
+  color: black;
+  text-transform: uppercase;
+  line-height: 1,6;
+}
+
+.ellos .ellos__1 {
+  color: black;
+  text-transform: uppercase;
+  text-align: left;
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: italic;
+  text-decoration: underline;
+  padding: 10px;
+  margin: 10px;
+  font-size: xx-large;
+}
+
+.ellos .esto {
+  color: #ffffff;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: larger;
+  font-weight: bolder;
+  line-height: 2,0;
+  padding: 10px;
+  margin: 10px;
+  width: 400px;
+}
+
+.ellos .ellos__2 {
+  text-transform: uppercase;
+  font-style: italic;
+  padding: 10px;
+  margin: 10px;
+  font-size: xx-large;
+  text-decoration: underline;
+}
+
+.ellos .esto__1 {
+  font-size: larger;
+  font-weight: bolder;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #dfdedc;
+  line-height: 2,0;
+  width: 400px;
+  margin: 10px;
+  padding: 10px;
+}
+
+.ellos .ellos__3 {
+  color: #6f6f6f;
+  font-weight: bold;
+  font-size: xx-large;
+  padding: 10px;
+  margin: 10px;
+  text-decoration: underline;
+}
+
+.ellos .esto__3 {
+  padding: 10px;
+  margin: 10px;
+  width: 400px;
+  line-height: 1,6;
+  color: black;
+  font-size: x-large;
+}
+
+.ellos .ellos__4 {
+  padding: 10px;
+  margin: 10px;
+  font-size: xx-large;
+  text-decoration: underline;
+  color: #6f6f6f;
+}
+
+.ellos .esto__4 {
+  padding: 10px;
+  margin: 10px;
+  width: 400px;
+  color: black;
+  font-size: x-large;
+}
+
+body {
+  background-color: #a6b173;;
+}
+
+.centro {
+  text-align: left;
+}
+
+.a {
+  color: black;
+  text-decoration: underline;
+  text-transform: uppercase;
+  font-size: large;
+}
+
+.d {
+  color: skyblue;
+  font-weight: bolder;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: x-large;
+  padding: 10px;
+  color: skyblue;
+  font-size: x-large;
+  font-weight: bolder;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.b {
+  color: black;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bolder;
+  font-size: x-large;
+  padding: 10px;
+  color: black;
+  font-size: x-large;
+  font-weight: bolder;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.c {
+  color: blue;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bolder;
+  font-size: x-large;
+  padding: 10px;
+  color: blue;
+  font-size: x-large;
+  font-weight: bolder;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.introduccion {
+  text-decoration: underline;
+  color: seashell;
+}
